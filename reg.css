@@ -1,0 +1,87 @@
+body{
+    background: url(fondo.jpg) repeat 50%;
+    font-family:#eee FORTE,Arial,times,new roman, calibri;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+#menu {
+    
+    width: 311px;
+    margin: auto;
+    background: url(fondobarramenu.jpg) repeat 50%;
+    border-bottom: 1px solid;
+    border-color: greenyellow;
+}
+
+#menu ul {
+    font-weight: bold;
+    color: oldlace;
+    text-align: center;
+    margin: 0;
+    padding-bottom: 5px;
+    padding top: 5px;
+}
+
+#menu ul li {
+    display: inline;
+    margin-left: -3px;
+}
+
+#menu ul li a {
+    padding: 5px 10px 5px 10px;
+    color: #BFBC2B;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+}
+
+#menu ul li a:hover {
+    background-color: midnightblue;
+    color: aqua;
+}
+
+h1#logo  {
+	width: 311px;   
+	height: 45px;
+	background-color: #2C28A9 ;
+    border-bottom: 5px solid black;
+	line-height: 45px;
+	margin: 3px auto;
+	margin-bottom: 15px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 200%;
+    
+}	
+
+#contenedor{
+    margin: auto;
+    width: 305px;
+    height: 180px;
+
+    
+}
+
+#bloque_izq h2{
+    
+    font-size: 155%;
+    color: #95D820  ;
+    border-bottom: 5px dotted black;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: serif;
+}
+
+#bloque_izq {
+    float: inherit;
+    width: 311px;
+    text-align: justify;
+    background: url(mosreg.jpg) repeat 50%;;
+    font-size: 20px;
+    font-family: sans-serif;
+    
+
+}

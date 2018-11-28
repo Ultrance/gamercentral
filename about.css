@@ -1,0 +1,99 @@
+body{
+    background: url(fondo.jpg) repeat 50%;
+    font-family:#eee FORTE,Arial,times,new roman, calibri;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+#menu {
+    
+    width: 622px;
+    margin: auto;
+    background: url(fondobarramenu.jpg) repeat 50%;
+    border-bottom: 1px solid;
+    border-color: greenyellow;
+}
+
+#menu ul {
+    font-weight: bold;
+    color: oldlace;
+    text-align: center;
+    margin: 0;
+    padding-bottom: 5px;
+    padding top: 5px;
+}
+
+#menu ul li {
+    display: inline;
+    margin-left: -3px;
+}
+
+#menu ul li a {
+    padding: 5px 10px 5px 10px;
+    color: #BFBC2B;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+}
+
+#menu ul li a:hover {
+    background-color: midnightblue;
+    color: aqua;
+}
+
+h1#logo  {
+	width: 622px;   
+	height: 90px;
+	background-color: #2C28A9 ;
+    border-bottom: 5px solid black;
+	line-height: 90px;
+	margin: 3px auto;
+	margin-bottom: 15px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 200%;
+    
+}	
+
+#contenedor{
+    margin: auto;
+    width: 620px;
+    height: 720px;
+    
+    
+}
+
+#bloque_izq h2{
+    
+    font-size: 155%;
+    color: #95D820  ;
+    border-bottom: 5px dotted black;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: serif;
+}
+#bloque_izq {
+    float: inherit;
+    width: 622px;
+    text-align: justify;
+    background: url(fonabout.jpg) repeat 50%;;
+    font-size: 20px;
+    font-family: sans-serif;
+    
+
+}
+#imgsl{
+
+
+}
+#notsl{
+    font-size: 18px;
+    margin: auto;
+    text-align: justify;
+    border: 0px solid;
+    margin: 55px;
+    border-bottom: 5px dotted black;
+    margin-bottom: 0px;
+    padding-bottom: 0px;

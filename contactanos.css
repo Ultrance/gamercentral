@@ -1,0 +1,83 @@
+body{
+    background: url(fondo.jpg) repeat 50%;
+    font-family:#eee FORTE,Arial,times,new roman, calibri;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+#menu {
+    
+    width: 622px;
+    margin: auto;
+    background: url(fondobarramenu.jpg) repeat 50%;
+    border-bottom: 1px solid #fff;
+    border-color: greenyellow;
+}
+
+#menu ul {
+    font-weight: bold;
+    color: greenyellow;
+    text-align: center;
+    margin: 0;
+    padding-bottom: 5px;
+    padding top: 5px;
+}
+
+#menu ul li {
+    display: inline;
+    margin-left: -3px;
+}
+
+#menu ul li a {
+    padding: 5px 10px 5px 10px;
+    color: #BFBC2B;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+}
+
+#menu ul li a:hover {
+    background-color: midnightblue;
+    color: aqua;
+}
+
+h1#logo  {
+	width: 622px;   
+	height: 90px;
+	background-color: #2C28A9 ;
+    border-bottom: 5px solid black;
+	line-height: 90px;
+	margin: 3px auto;
+	margin-bottom: 15px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 200%;
+    
+}	
+
+#contenedor{
+    margin: auto;
+    width: 620px;
+    height: 720px;
+    overflow: auto;
+    
+}
+
+#bloque_izq h2{
+    
+    font-size: 155%;
+    color: black;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: serif;
+}
+
+#bloque_izq {
+    float: inherit;
+    width: 620px;
+    text-align: justify;
+    background: url(contmos.jpg) repeat 50%;
+    font-size: 20px;
+    font-family: serif;
